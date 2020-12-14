@@ -23,3 +23,12 @@
                                        realizarse por fast-forward
 13     - add bitacora.txt
        - commit "Paso 13"
+14     merge Antecedentes              La fusión fue recursiva y hubo
+                                       conflitos que se tuvieron que
+                                       resolver
+15     merge DatosPersonales           La fusión fue recursiva y hubo
+                                       conflitos que se tuvieron que
+                                       resolver
+16     - add bitacora.txt
+       - commit "Paso 16"
+       
