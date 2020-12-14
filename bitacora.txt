@@ -4,5 +4,10 @@
 %% Alumno (Apellidos, Nombre):                                      %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                         Notas
+====== ============================    ================================
+06     checkout master
+07     checkout -b Antecedentes
+08     (creado fichero antecedentes)
+09     - add antecedentes.txt
+       - add bitacora.txt
