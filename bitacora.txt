@@ -1,11 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Cruz Varona, Luis                    %%
 %%==================================================================%%
 
- Paso   Acción                         Notas
-====== ============================    ================================
+ Paso   Acción                          Notas
+====== ============================     ================================
+01     clone
+02     checkout -b DatosPersonales
+03     (editado fichero PlanVacunacion)
+04     (editada bitacora)
 06     checkout master
 07     checkout -b Antecedentes
 08     (creado fichero antecedentes)
