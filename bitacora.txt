@@ -31,4 +31,13 @@
                                        resolver
 16     - add bitacora.txt
        - commit "Paso 16"
-       
+17     tag "FusionTerminada"
+18     - push                          - No se pudo hacer, había
+                                         conflitos
+       - pull                          - Se solucionaron los conflictos
+                                         de PlanVacunacion.txt
+       - push
+       - push FusionTerminada
+19     - add bitacora.txt
+       - commit "Paso 19"
+       - push origin
