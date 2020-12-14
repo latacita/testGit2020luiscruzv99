@@ -4,5 +4,12 @@
 %% Alumno (Apellidos, Nombre):                                      %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                         Notas
+====== ============================    ================================
+10     checkout master
+11     push DatosPersonales            Hubo que crear la rama remota
+                                       DatosPersonales
+12     --------------------            Las fusiones de las ramas podrían
+                                       realizarse por fast-forward
+13     - add bitacora.txt
+       - commit "Paso 13"
